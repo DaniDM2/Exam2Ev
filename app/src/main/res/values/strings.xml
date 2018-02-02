@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">EXAMEN PROM 2EV</string>
+
+    <string name="main_menu">MENÚ PRINCIPAL</string>
+    <string name="weather">EL TIEMPO</string>
+    <string name="atomic_data">DATOS ATOMICOS</string>
+    <string name="multimedia">MULTIMEDIA</string>
+    <string name="exit">EXIT</string>
+
+    <string name="go_back">VOLVER</string>
+
+    <string name="bilbao">BILBO-BILBAO</string>
+    <string name="vitoria">VITORIA-GASTEIZ</string>
+    <string name="sansebastian">DONOSTIA-SAN SEBASTIAN</string>
+    <string name="choose_location">Escoge una de las siguientes localidades: </string>
+    <string name="local_weather">Tiempo actual en: </string>
+    <string name="hour">Hora</string>
+    <string name="temp">Temperatura</string>
+    <string name="sky">Estado del cielo </string>
+
+    <string name="element_name">Introduce el nombre del elemento químico: </string>
+    <string name="element_info">INFORMACIÓN DEL ELEMENTO</string>
+    <string name="symbol">Símbolo Químico:</string>
+    <string name="atomic_number">Número Atómico:</string>
+    <string name="atomic_weight">Peso Atómico:</string>
+    <string name="boiling_point">Punto de Ebullición:</string>
+    <string name="denstiy">Denisdad:</string>
+    <string name="atomic_data_title">Datos Atómicos</string>
+
+    <string name="farm_animals" >Animales de granja</string>
+    <string name="donkey">Burro</string>
+    <string name="horse">Caballo</string>
+    <string name="goat">Cabra</string>
+    <string name="hen">Gallina</string>
+    <string name="rooster">Gallo</string>
+    <string name="cat">Gato</string>
+    <string name="sheep">Oveja</string>
+    <string name="cow">Vaca</string>
+
+</resources>
